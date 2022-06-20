@@ -9,7 +9,7 @@ Projeto Desenvolvido para diversos tipos de ambientes tecnológicos, pode ser mo
 ## Visão geral
 - Login Pagina Inicial.
 ![](/docs/TelaLogin.png)
-![](/docs/Pagina Inicial 1.png)
+![](/docs/PaginaInicial1.png)
 - Opções de parametros para carregamentos dos dados.
-![](/docs/Pagina Inicial 2.PNG)
-![](/docs/Pagina Inicial 3.png)
+![](/docs/PaginaInicial2.PNG)
+![](/docs/PaginaInicial3.png)
