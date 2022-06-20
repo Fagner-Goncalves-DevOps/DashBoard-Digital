@@ -7,6 +7,7 @@ DashBoard-Digital é projeto desenvolvido por min Fagner Gonçalves, para divers
 
 ## Visão geral
 - Para mais detalhes e imagens com qualidade do projeto, ir direto na pasta /docs/ do projeto
+- https://github.com/Fagner-Goncalves-DevOps/DashBoard-Digital/tree/master/docs
 
 ![](/docs/DashDigital.png)
 
