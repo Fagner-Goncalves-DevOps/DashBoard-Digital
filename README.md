@@ -4,18 +4,24 @@
 - Projeto SPA usando tecnologias asp net core 3.1 + angular 10
 
 ## A ideia do projeto
-Projeto Desenvolvido para diversos tipos de ambientes tecnológicos, pode ser moldado de diversas formas de análises de dados. Utilizando nível de autenticação Jwt, seguindo modelos de código limpo ...Em atualização ainda..
+
+DashBoard-Digital é projeto desenvolvido por min Fagner Gonçalves, para diversos tipos de ambientes tecnológicos, foi escrito com arquitetura limpa e melhores práticas. A ideia é como implementar projetos da vida para análises de dados e de facil modelagem para demais processos como controle de vendas, analise de dados de diversos tipos de plataformas de dados. Isso gerenciado com arquitetura em camadas para criar aplicativos Web modernos com as tecnologias ASP.NET Core e API Web e EF Core mais recentes.
+
+## O que incluí neste repositório
+
+- Implementação do tema Modelo DashBoard usando Angular 10.
+- Desenvolvimento completo de casos de uso de modelos DashBoard com banco de dados interno, de facil subistiuição para visão necessaria. 
+- Verificação de regras de negócios, aplicação de política de domínio e validações, todas seguindo modelos e ideas minhas.
+- Autenticação, módulo de identidade e configuração de identidade.
+- Injeção de dependência interna do núcleo Asp.net
+
+ Muitos outros recursos ausentes que você pode verificar direto no projeto.
 
 ## Visão geral
 
 - Login Pagina Inicial.
 ![](/docs/TelaLogin.png)
-
 ![](/docs/Pagina-Inicial1.png)
 
-- Opções de parametros para carregamentos dos dados.
-![](/docs/Pagina-Inicial2.png)
-
-![](/docs/Pagina-Inicial3.png)
 
 
