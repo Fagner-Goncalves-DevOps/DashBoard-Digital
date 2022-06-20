@@ -4,4 +4,4 @@
 - Projeto SPA usando tecnologias asp net core 3.1 + angular 10
 
 ## Visão geral
-![](/Docs/TelaLogin.png)
+![](/docs/TelaLogin.png)
