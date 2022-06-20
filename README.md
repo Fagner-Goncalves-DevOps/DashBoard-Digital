@@ -1,7 +1,10 @@
-# NetCore Api, DashBoard Digital Com Angular
+# SPA - NetCoreApi, DashBoard Digital Com Angular
 
-- Projeto DashBoard Digital
+- Projeto DashBoard Digital, 
 - Projeto SPA usando tecnologias asp net core 3.1 + angular 10
+
+## Visão geral
+Projeto Desenvolvido para diversos tipos de ambientes tecnológicos pode ser moldado a diversa forma de análise de dados. Utilizando nível de autenticação Jwt, seguindo modelos de código limpo...
 
 ## Visão geral
 ![](/docs/TelaLogin.png)
