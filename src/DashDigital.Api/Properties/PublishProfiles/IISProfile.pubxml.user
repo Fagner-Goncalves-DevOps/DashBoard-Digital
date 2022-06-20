@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Esse arquivo é usado pelo processo de publicação/pacote do seu projeto Web. É possível personalizar o comportamento deste processo
+ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <History>True|2022-03-15T02:33:18.5569892Z;True|2022-03-14T13:10:59.4144445-03:00;True|2022-03-14T00:03:50.7441996-03:00;True|2022-03-13T01:16:23.6413464-03:00;True|2022-03-12T11:02:06.5297517-03:00;True|2022-03-11T20:57:34.6512911-03:00;True|2022-03-11T20:41:03.1250445-03:00;False|2022-03-11T02:52:57.9127359-03:00;</History>
+    <_PublishTargetUrl>\\backupdell\dbm-dba$\DBM\Fagner\DashBoardTelecom\TelecomApiServer</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=CALLFLEX-ETL1%3bInitial Catalog=TELECOM%3bIntegrated Security=False%3bUser ID=telecom_app%3bPassword=qwer1234%3bConnect Timeout=15%3bEncrypt=False%3bTrustServerCertificate=False</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

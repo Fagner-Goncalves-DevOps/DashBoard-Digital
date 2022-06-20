@@ -1,0 +1,10 @@
+C:\ProgramData\Temporario\GitHubGeral\Portfólio\NetCore3.1Api\src\DashDigital.Domain\bin\Debug\netcoreapp3.1\DashDigital.Domain.deps.json
+C:\ProgramData\Temporario\GitHubGeral\Portfólio\NetCore3.1Api\src\DashDigital.Domain\bin\Debug\netcoreapp3.1\DashDigital.Domain.dll
+C:\ProgramData\Temporario\GitHubGeral\Portfólio\NetCore3.1Api\src\DashDigital.Domain\bin\Debug\netcoreapp3.1\DashDigital.Domain.pdb
+C:\ProgramData\Temporario\GitHubGeral\Portfólio\NetCore3.1Api\src\DashDigital.Domain\obj\Debug\netcoreapp3.1\DashDigital.Domain.csproj.AssemblyReference.cache
+C:\ProgramData\Temporario\GitHubGeral\Portfólio\NetCore3.1Api\src\DashDigital.Domain\obj\Debug\netcoreapp3.1\DashDigital.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramData\Temporario\GitHubGeral\Portfólio\NetCore3.1Api\src\DashDigital.Domain\obj\Debug\netcoreapp3.1\DashDigital.Domain.AssemblyInfoInputs.cache
+C:\ProgramData\Temporario\GitHubGeral\Portfólio\NetCore3.1Api\src\DashDigital.Domain\obj\Debug\netcoreapp3.1\DashDigital.Domain.AssemblyInfo.cs
+C:\ProgramData\Temporario\GitHubGeral\Portfólio\NetCore3.1Api\src\DashDigital.Domain\obj\Debug\netcoreapp3.1\DashDigital.Domain.csproj.CoreCompileInputs.cache
+C:\ProgramData\Temporario\GitHubGeral\Portfólio\NetCore3.1Api\src\DashDigital.Domain\obj\Debug\netcoreapp3.1\DashDigital.Domain.dll
+C:\ProgramData\Temporario\GitHubGeral\Portfólio\NetCore3.1Api\src\DashDigital.Domain\obj\Debug\netcoreapp3.1\DashDigital.Domain.pdb

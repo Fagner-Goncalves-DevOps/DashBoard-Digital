@@ -1,0 +1,13 @@
+C:\ProgramData\Temporario\GitHubGeral\WebApiAspNetCore3.1\src\DashTelecom.Infrastructure\bin\Debug\netcoreapp3.1\DashTelecom.Infrastructure.deps.json
+C:\ProgramData\Temporario\GitHubGeral\WebApiAspNetCore3.1\src\DashTelecom.Infrastructure\bin\Debug\netcoreapp3.1\DashTelecom.Infrastructure.dll
+C:\ProgramData\Temporario\GitHubGeral\WebApiAspNetCore3.1\src\DashTelecom.Infrastructure\bin\Debug\netcoreapp3.1\DashTelecom.Infrastructure.pdb
+C:\ProgramData\Temporario\GitHubGeral\WebApiAspNetCore3.1\src\DashTelecom.Infrastructure\bin\Debug\netcoreapp3.1\DashTelecom.Domain.dll
+C:\ProgramData\Temporario\GitHubGeral\WebApiAspNetCore3.1\src\DashTelecom.Infrastructure\bin\Debug\netcoreapp3.1\DashTelecom.Domain.pdb
+C:\ProgramData\Temporario\GitHubGeral\WebApiAspNetCore3.1\src\DashTelecom.Infrastructure\obj\Debug\netcoreapp3.1\DashTelecom.Infrastructure.csproj.AssemblyReference.cache
+C:\ProgramData\Temporario\GitHubGeral\WebApiAspNetCore3.1\src\DashTelecom.Infrastructure\obj\Debug\netcoreapp3.1\DashTelecom.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramData\Temporario\GitHubGeral\WebApiAspNetCore3.1\src\DashTelecom.Infrastructure\obj\Debug\netcoreapp3.1\DashTelecom.Infrastructure.AssemblyInfoInputs.cache
+C:\ProgramData\Temporario\GitHubGeral\WebApiAspNetCore3.1\src\DashTelecom.Infrastructure\obj\Debug\netcoreapp3.1\DashTelecom.Infrastructure.AssemblyInfo.cs
+C:\ProgramData\Temporario\GitHubGeral\WebApiAspNetCore3.1\src\DashTelecom.Infrastructure\obj\Debug\netcoreapp3.1\DashTelecom.Infrastructure.csproj.CoreCompileInputs.cache
+C:\ProgramData\Temporario\GitHubGeral\WebApiAspNetCore3.1\src\DashTelecom.Infrastructure\obj\Debug\netcoreapp3.1\DashTelecom.Infrastructure.csproj.CopyComplete
+C:\ProgramData\Temporario\GitHubGeral\WebApiAspNetCore3.1\src\DashTelecom.Infrastructure\obj\Debug\netcoreapp3.1\DashTelecom.Infrastructure.dll
+C:\ProgramData\Temporario\GitHubGeral\WebApiAspNetCore3.1\src\DashTelecom.Infrastructure\obj\Debug\netcoreapp3.1\DashTelecom.Infrastructure.pdb

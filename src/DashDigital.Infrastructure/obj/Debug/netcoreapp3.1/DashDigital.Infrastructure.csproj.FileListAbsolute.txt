@@ -1,0 +1,13 @@
+C:\ProgramData\Temporario\GitHubGeral\Portfólio\NetCore3.1Api\src\DashDigital.Infrastructure\bin\Debug\netcoreapp3.1\DashDigital.Infrastructure.deps.json
+C:\ProgramData\Temporario\GitHubGeral\Portfólio\NetCore3.1Api\src\DashDigital.Infrastructure\bin\Debug\netcoreapp3.1\DashDigital.Infrastructure.dll
+C:\ProgramData\Temporario\GitHubGeral\Portfólio\NetCore3.1Api\src\DashDigital.Infrastructure\bin\Debug\netcoreapp3.1\DashDigital.Infrastructure.pdb
+C:\ProgramData\Temporario\GitHubGeral\Portfólio\NetCore3.1Api\src\DashDigital.Infrastructure\bin\Debug\netcoreapp3.1\DashDigital.Domain.dll
+C:\ProgramData\Temporario\GitHubGeral\Portfólio\NetCore3.1Api\src\DashDigital.Infrastructure\bin\Debug\netcoreapp3.1\DashDigital.Domain.pdb
+C:\ProgramData\Temporario\GitHubGeral\Portfólio\NetCore3.1Api\src\DashDigital.Infrastructure\obj\Debug\netcoreapp3.1\DashDigital.Infrastructure.csproj.AssemblyReference.cache
+C:\ProgramData\Temporario\GitHubGeral\Portfólio\NetCore3.1Api\src\DashDigital.Infrastructure\obj\Debug\netcoreapp3.1\DashDigital.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramData\Temporario\GitHubGeral\Portfólio\NetCore3.1Api\src\DashDigital.Infrastructure\obj\Debug\netcoreapp3.1\DashDigital.Infrastructure.AssemblyInfoInputs.cache
+C:\ProgramData\Temporario\GitHubGeral\Portfólio\NetCore3.1Api\src\DashDigital.Infrastructure\obj\Debug\netcoreapp3.1\DashDigital.Infrastructure.AssemblyInfo.cs
+C:\ProgramData\Temporario\GitHubGeral\Portfólio\NetCore3.1Api\src\DashDigital.Infrastructure\obj\Debug\netcoreapp3.1\DashDigital.Infrastructure.csproj.CoreCompileInputs.cache
+C:\ProgramData\Temporario\GitHubGeral\Portfólio\NetCore3.1Api\src\DashDigital.Infrastructure\obj\Debug\netcoreapp3.1\DashDigital.Infrastructure.csproj.CopyComplete
+C:\ProgramData\Temporario\GitHubGeral\Portfólio\NetCore3.1Api\src\DashDigital.Infrastructure\obj\Debug\netcoreapp3.1\DashDigital.Infrastructure.dll
+C:\ProgramData\Temporario\GitHubGeral\Portfólio\NetCore3.1Api\src\DashDigital.Infrastructure\obj\Debug\netcoreapp3.1\DashDigital.Infrastructure.pdb

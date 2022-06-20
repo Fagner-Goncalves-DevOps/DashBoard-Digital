@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "terFauBTFdRD610vbBEPw9tFSBdN9JZB9ABlKjuJqGyU2VC1/oHW6HiaheR8VMQy7tEBM1bGpqDOEkY8yuM4tQ==",
+  "success": true,
+  "projectFilePath": "C:\\ProgramData\\Temporario\\GitHubGeral\\Portfólio\\NetCore3.1Api\\src\\DashDigital.Domain\\DashDigital.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\goncalves.fagner\\.nuget\\packages\\fluentvalidation\\9.2.2\\fluentvalidation.9.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
