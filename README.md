@@ -20,5 +20,5 @@ DashBoard-Digital é projeto desenvolvido por min Fagner Gonçalves, para divers
 
  Muitos outros recursos ausentes que você pode verificar direto no projeto.
 
-
-
+## License
+Este projeto está licenciado sob a Licença MIT
