@@ -7,9 +7,15 @@
 Projeto Desenvolvido para diversos tipos de ambientes tecnológicos, pode ser moldado de diversas formas de análises de dados. Utilizando nível de autenticação Jwt, seguindo modelos de código limpo ...Em atualização ainda..
 
 ## Visão geral
+
 - Login Pagina Inicial.
 ![](/docs/TelaLogin.png)
-![](/docs/PaginaInicial1.png)
+
+![](/docs/Pagina-Inicial1.png)
+
 - Opções de parametros para carregamentos dos dados.
-![](/docs/PaginaInicial2.PNG)
-![](/docs/PaginaInicial3.png)
+![](/docs/Pagina-Inicial2.png)
+
+![](/docs/Pagina-Inicial3.png)
+
+
