@@ -18,10 +18,7 @@ DashBoard-Digital é projeto desenvolvido por min Fagner Gonçalves, para divers
  Muitos outros recursos ausentes que você pode verificar direto no projeto.
 
 ## Visão geral
-
-- Login Pagina Inicial.
-![](/docs/TelaLogin.png)
-![](/docs/Pagina-Inicial1.png)
+![](/docs/DashDigital.png)
 
 
 
