@@ -1,11 +1,14 @@
 # SPA - NetCoreApi com Angular
 
-- Projeto DashBoard Digital, 
 - Projeto SPA usando tecnologias asp net core 3.1 + angular 10
-
 ## A ideia do projeto
 
 DashBoard-Digital é projeto desenvolvido por min Fagner Gonçalves, para diversos tipos de ambientes tecnológicos, foi escrito com arquitetura limpa e melhores práticas. A ideia é como implementar projetos da vida para análises de dados e de facil modelagem para demais processos como controle de vendas, analise de dados de diversos tipos de plataformas de dados. Isso gerenciado com arquitetura em camadas para criar aplicativos Web modernos com as tecnologias ASP.NET Core e API Web e EF Core mais recentes.
+
+## Visão geral
+- Para mais detalhes e imagens com qualidade do projeto, ir direto na pasta /docs/ do projeto
+
+![](/docs/DashDigital.png)
 
 ## O que incluí neste repositório
 
@@ -16,12 +19,6 @@ DashBoard-Digital é projeto desenvolvido por min Fagner Gonçalves, para divers
 - Injeção de dependência interna do núcleo Asp.net
 
  Muitos outros recursos ausentes que você pode verificar direto no projeto.
-
-## Visão geral
-
-- Login Pagina Inicial.
-![](/docs/TelaLogin.png)
-![](/docs/Pagina-Inicial1.png)
 
 
 
