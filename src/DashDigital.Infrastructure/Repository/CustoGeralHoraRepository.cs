@@ -14,22 +14,5 @@ namespace DashDigital.Infrastructure.Repository
     public class CustoGeralHoraRepository : Repository<TabChamadasDia>, ICustoGeralHoraRepository
     {
         public CustoGeralHoraRepository(MeuDbContext context) : base(context) { }
-
-
-        public async Task<IEnumerable<CustoOpHoraMinimo>> ObterCustoHoraOpMinimo()
-        {
-            var CustoOpHoraMinimo = await (
-                        from s in Db.TabChamadasDia
-                        join a in Db.TabTelecomOperadoras on s.Terminator equals a.Rota
-                        join b in Db.TabTelecomOperadoraMinimo on a.Operadora equals b.Operadora  
-                        where a.pag_sub == "PAGO" && s.Valor > 0
-                        group new { a.Operadora, s.Valor, b.MetaComMargen} by new {a.Operadora, b.MetaComMargen } into gp
-                        select new CustoOpHoraMinimo { 
-                            Operadora = gp.Key.Operadora,
-                            Custo = gp.Sum(t => t.Valor)
-                        }).AsNoTracking().ToListAsync();
-            return CustoOpHoraMinimo;
-
-        }
-    }
+            //implementação aqui
 }
