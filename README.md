@@ -2,6 +2,7 @@
 
 - Projeto SPA usando tecnologias asp net core 3.1 + angular 10
 - Proxima atualização Front usando angular +10
+- Subir aplicação em link externo para teste produção (AWS ou Azure)
 
 ## A ideia do projeto
 
