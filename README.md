@@ -6,7 +6,7 @@
 
 ## A ideia do projeto
 
-DashBoard-Digital é um projeto desenvolvido por min Fagner Gonçalves, para diversos tipos de ambientes tecnológicos, foi escrito com arquitetura limpa e melhores práticas. A ideia é como implementar um projetos para análise de dados e de facil modelagem para os demais processos, modelos de controle de vendas, analise de dados de diversos tipos de plataformas, isso gerenciado com arquitetura em camadas usado por aplicativos Web modernos com as tecnologias ASP.NET Core e API Web e EF Core mais recentes.
+O projeto "DashBoard-Digital", criado por Fagner Gonçalves, é uma solução versátil para diferentes ambientes tecnológicos. Projetado com uma arquitetura limpa e seguindo as melhores práticas do setor, o objetivo deste projeto é facilitar a implementação de análises de dados e modelagem em variados processos. Inclui modelos eficientes para o controle de vendas e a análise de dados de várias plataformas. Este sistema é gerenciado através de uma arquitetura em camadas, compatível com aplicativos web modernos, e utiliza tecnologias avançadas como ASP.NET Core, API Web e EF Core.
 
 ## Visão geral
 - Para mais detalhes e imagens com qualidade do projeto, ir direto na pasta /docs/ do projeto,
